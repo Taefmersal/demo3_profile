@@ -6,10 +6,6 @@
 	objectVersion = 77;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		88C424E42CA94070009A365B /* ghadah.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88C424D42CA94051009A365B /* ghadah.swift */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXContainerItemProxy section */
 		269C1A112CA92AC6003CD868 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -31,7 +27,6 @@
 		269C1A002CA92AC4003CD868 /* demo3_profile.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = demo3_profile.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		269C1A102CA92AC6003CD868 /* demo3_profileTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = demo3_profileTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		269C1A1A2CA92AC6003CD868 /* demo3_profileUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = demo3_profileUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		88C424D42CA94051009A365B /* ghadah.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ghadah.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -84,7 +79,6 @@
 				269C1A132CA92AC6003CD868 /* demo3_profileTests */,
 				269C1A1D2CA92AC6003CD868 /* demo3_profileUITests */,
 				269C1A012CA92AC4003CD868 /* Products */,
-				88C424D42CA94051009A365B /* ghadah.swift */,
 			);
 			sourceTree = "<group>";
 		};
@@ -242,7 +236,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				88C424E42CA94070009A365B /* ghadah.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

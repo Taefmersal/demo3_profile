@@ -21,7 +21,7 @@ struct ghadah: View {
                 .scaledToFit()
                 .frame(width: 200, height: 200)
                 .clipShape(Circle())
-                .overlay(Circle().stroke(Color.yellow, lineWidth: 5))
+                .overlay(Circle().stroke(Color.red, lineWidth: 5))
             
          
             Text("GHADAH ALENEZI")
